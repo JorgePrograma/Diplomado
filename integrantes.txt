@@ -1,0 +1,9 @@
+Integrandes de diplomado 2022
+modulo 1 
+
+Jorge Eliecer Martelo Suarez
+Moisés Antonio Payares Ortiz
+Efrain Jesús Vega Herrera
+
+link en github
+https://github.com/JorgePrograma/Diplomado.git
